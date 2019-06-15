@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>tile02.png</FileName>
+  <SpriteSize>32</SpriteSize>
+
+  <List>
+    <Sprite name ="terreno01" x = "0" y ="80"/>
+    <Sprite name ="terreno02" x = "1" y ="80"/>
+    <Sprite name ="terreno03" x = "2" y ="80"/>
+    <Sprite name ="terreno04" x = "3" y ="80"/>
+    <Sprite name ="terreno05" x = "4" y ="80"/>
+    <Sprite name ="terreno06" x = "5" y ="80"/>
+    <Sprite name ="terreno07" x = "6" y ="80"/>
+    <Sprite name ="terreno08" x = "7" y ="80"/>
+    <Sprite name ="terreno09" x = "8" y ="80"/>
+    <Sprite name ="terreno10" x = "9" y ="80"/>
+
+    <Sprite name ="terreno11" x = "19" y ="91"/>
+    <Sprite name ="terreno12" x = "20" y ="91"/>
+    <Sprite name ="terreno13" x = "21" y ="91"/>
+    <Sprite name ="terreno14" x = "22" y ="91"/>
+    <Sprite name ="terreno15" x = "23" y ="91"/>
+    <Sprite name ="terreno16" x = "24" y ="91"/>
+    <Sprite name ="terreno17" x = "25" y ="91"/>
+    <Sprite name ="terreno18" x = "26" y ="91"/>
+    <Sprite name ="terreno19" x = "27" y ="91"/>
+    <Sprite name ="terreno20" x = "28" y ="91"/>
+
+    <Sprite name ="terreno21" x = "29" y ="91"/>
+    <Sprite name ="terreno22" x = "30" y ="91"/>
+    <Sprite name ="terreno23" x = "31" y ="91"/>
+    <Sprite name ="terreno24" x = "32" y ="91"/>
+    <Sprite name ="terreno25" x = "33" y ="91"/>
+    <Sprite name ="terreno26" x = "34" y ="91"/>
+    <Sprite name ="terreno27" x = "35" y ="91"/>
+    <Sprite name ="terreno28" x = "36" y ="91"/>
+    <Sprite name ="terreno29" x = "37" y ="91"/>
+    <Sprite name ="terreno30" x = "38" y ="91"/>
+
+    <Sprite name ="terreno31" x = "39" y ="91"/>
+    <Sprite name ="terreno32" x = "40" y ="91"/>
+    <Sprite name ="terreno33" x = "41" y ="91"/>
+    <Sprite name ="terreno34" x = "42" y ="91"/>
+
+    <Sprite name ="terreno35" x = "20" y ="87"/>
+    <Sprite name ="terreno36" x = "21" y ="87"/>
+    <Sprite name ="terreno37" x = "22" y ="87"/>
+    <Sprite name ="terreno38" x = "23" y ="87"/>
+    <Sprite name ="terreno39" x = "24" y ="87"/>
+    <Sprite name ="terreno40" x = "25" y ="87"/>
+    <Sprite name ="terreno41" x = "26" y ="87"/>
+    <Sprite name ="terreno42" x = "27" y ="87"/>
+
+    <Sprite name ="terreno43" x = "41" y ="77"/>
+    <Sprite name ="terreno44" x = "42" y ="77"/>
+    <Sprite name ="terreno45" x = "43" y ="77"/>
+    <Sprite name ="terreno46" x = "44" y ="77"/>
+    <Sprite name ="terreno47" x = "45" y ="77"/>
+    <Sprite name ="terreno48" x = "46" y ="77"/>
+    <Sprite name ="terreno49" x = "47" y ="77"/>
+    <Sprite name ="terreno50" x = "48" y ="77"/>
+
+  </List>
+  
+</Catalog>

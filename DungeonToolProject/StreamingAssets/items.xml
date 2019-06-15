@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileName>tile02.png</FileName>
+  <SpriteSize>32</SpriteSize>
+
+  <List>
+    <Sprite name ="spada01" x = "0" y ="48"/>
+    <Sprite name ="spada02" x = "1" y ="48"/>
+    <Sprite name ="spada03" x = "2" y ="48"/>
+    <Sprite name ="spada04" x = "3" y ="48"/>
+    <Sprite name ="spada05" x = "4" y ="48"/>
+
+    <Sprite name ="anello01" x = "0" y ="51"/>
+    <Sprite name ="anello02" x = "1" y ="51"/>
+    <Sprite name ="anello03" x = "2" y ="51"/>
+    <Sprite name ="anello04" x = "3" y ="51"/>
+
+    <Sprite name ="pozzione01" x = "0" y ="52"/>
+    <Sprite name ="pozzione02" x = "1" y ="52"/>
+    <Sprite name ="pozzione03" x = "2" y ="52"/>
+    <Sprite name ="pozzione04" x = "3" y ="52"/>
+
+    <Sprite name ="book01" x = "0" y ="55"/>
+    <Sprite name ="book02" x = "1" y ="55"/>
+    <Sprite name ="book03" x = "2" y ="55"/>
+    <Sprite name ="book04" x = "3" y ="55"/>
+  </List>
+  
+</Catalog>
